@@ -10,10 +10,6 @@ CREATE TABLE KHACHHANG(
 	NGSINH smalldatetime,
 	DOANHSO money,
 	NGDK smalldatetime,
---Phan Ngoc Son
-
-
--- psdgksgsd
 );
 
 CREATE TABLE NHANVIEN(
